@@ -9,5 +9,4 @@ print(podana_wartosc)
 podana_wartosc = float(podana_wartosc)
 print(type(podana_wartosc))
 
-
-
+# if podana_wartosc
