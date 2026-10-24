@@ -7,3 +7,5 @@
 podana_wartosc = input('Proszę podać wartość stężenia glukozy: ')
 print(podana_wartosc)
 
+
+
