@@ -12,3 +12,4 @@ if sys.version_info[:3] == (3,12,10) and os.path.join(os.getcwd(), '.venv') in s
 else:
     print(f'Używasz wersji pythona {sys.version_info[:3]}, z lokalizacji {sys.executable}. Sprawdź to :)')
 
+
