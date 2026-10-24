@@ -4,4 +4,4 @@
 # 2. decyzja -> jaka jednostka? wartość graniczna: 30
 # 3. Podać wynik walidacji
 
-podana_wartosc = input()
+podana_wartosc = input('Proszę podać wartość stężenia glukozy: ')
