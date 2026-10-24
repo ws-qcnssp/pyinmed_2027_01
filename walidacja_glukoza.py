@@ -9,4 +9,11 @@ print(podana_wartosc)
 podana_wartosc = float(podana_wartosc)
 # print(type(podana_wartosc))
 
-# if podana_wartosc
+if podana_wartosc > 30:
+    jedn = 'mg/dl'
+    dolna_granica = 70
+    gorna_granica = 100
+else:
+    jedn = 'mmol/l'
+    dolna_granica = 3.9
+    gorna_granica = 5.6
