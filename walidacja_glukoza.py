@@ -17,3 +17,4 @@ else:
     jedn = 'mmol/l'
     dolna_granica = 3.9
     gorna_granica = 5.6
+
