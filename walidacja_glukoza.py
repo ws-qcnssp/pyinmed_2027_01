@@ -7,6 +7,6 @@
 podana_wartosc = input('Proszę podać wartość stężenia glukozy: ')
 print(podana_wartosc)
 podana_wartosc = float(podana_wartosc)
-# print(type(podana_wartosc))
+type(podana_wartosc)
 
 # if podana_wartosc
